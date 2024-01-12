@@ -5,7 +5,6 @@ int correct_prime(int n, int z);
 /**
  * is_prime_number - says if an integer is a prime number or not
  * @n: number to check
- * @z: iterator for the function
  * author: ali_hasan
  * Return: 1 if n is a prime number, 0 if not
  */
@@ -30,4 +29,3 @@ int correct_prime(int n, int z)
 		return (0);
 	return (correct_prime(n, z - 1));
 }
-
