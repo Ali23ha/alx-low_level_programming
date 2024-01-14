@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * *_strspn - gets the length
+ * _strspn - gets the length
  * @s: parameter (string to evaluate)
  * @accept: parameter (string containing the list of characters)
  * author: ali_hasan
- * Return: the number of bytes 
+ * Return: the number of bytes
  */
 unsigned int _strspn(char *s, char *accept)
 {

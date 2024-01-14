@@ -4,7 +4,7 @@
 /**
  * *_strpbrk - searches a string for any of a set of bytes
  * @s:  parameter (string to search)
- * @accept: stringcontaining the destenation bytes 
+ * @accept: stringcontaining the destenation bytes
  * author: ali_hasan
  * Return: *s, otherwise NULL
  */

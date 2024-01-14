@@ -2,8 +2,8 @@
 
 /**
  * _strcmp - compares two strings
- * @s1: parameter for first string 
- * @s2: parameter for second string 
+ * @s1: parameter for first string
+ * @s2: parameter for second string
  * author: ali_hasan
  * Return: less than 0 if s1 < s2, 0 if s1 = s2,
  * more than 0 if s1 > s2
