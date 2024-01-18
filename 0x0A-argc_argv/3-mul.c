@@ -3,7 +3,7 @@
 
 /**
  * main - Prints the multiplication of two numbers, followed by a new line.
- * @argc: The number of arguments 
+ * @argc: The number of arguments
  * @argv: the values of argumants
  * author: ali_hasan
  * Return: 0 if succes,otherwise return 1
