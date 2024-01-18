@@ -32,7 +32,7 @@ int main(int argc, char *argv[])
 
 	for (x = 0; x < 5 && num >= 0; x++)
 	{
-		for ( ;num >= coins[x]; res++)
+		for ( ; num >= coins[x]; res++)
 		{
 			num -= coins[x];
 		}
